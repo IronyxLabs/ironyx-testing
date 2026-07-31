@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Company>IronyxLabs</Company>
-    <Description>Provide helpers for testing.</Description>
+    <Description>Provide helper types and functions for testing.</Description>
     <RepositoryUrl>https://github.com/IronyxLabs/ironyx-kernel</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>ironyx, kernel, test, xunit</PackageTags>
