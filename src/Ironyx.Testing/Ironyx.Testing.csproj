@@ -6,10 +6,10 @@
     <Nullable>enable</Nullable>
     <Company>IronyxLabs</Company>
     <Description>Provide helper types and functions for testing.</Description>
-    <RepositoryUrl>https://github.com/IronyxLabs/ironyx-kernel</RepositoryUrl>
+    <RepositoryUrl>https://github.com/IronyxLabs/ironyx-testing</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>ironyx, kernel, test, xunit</PackageTags>
-    <PackageReleaseNotes>https://github.com/IronyxLabs/ironyx-kernel/releases</PackageReleaseNotes>
+    <PackageTags>ironyx, test, xunit</PackageTags>
+    <PackageReleaseNotes>https://github.com/IronyxLabs/ironyx-testing/releases</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
